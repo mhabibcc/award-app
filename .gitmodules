@@ -1,3 +1,6 @@
 [submodule "award-server"]
 	path = award-server
 	url = git@github.com:mhabibcc/award-server.git
+[submodule "award-client"]
+	path = award-client
+	url = git@github.com:mhabibcc/award-client.git
